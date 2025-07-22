@@ -71,18 +71,6 @@ Retrieval-Augmented Generation (RAG) combines LLMs with external knowledge bases
 
 ---
 
-## 📹 Live Demo & Walkthrough
-
-A [video demo](#) (10 minutes) walks through:
-- Pipeline setup and loader/database selection
-- API configuration and credential management
-- Chunking, embedding, and vector storage
-- Sample queries with live outputs
-
-> *(Link to video demo goes here)*
-
----
-
 ## 💡 Key Learnings
 
 - Constructing modular, scalable RAG pipelines
